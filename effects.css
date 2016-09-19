@@ -1,0 +1,16 @@
+.hero
+{
+  font-family: "Roboto", serif;
+  text-align: center;
+  background-size: cover;
+  padding-bottom: 50px;
+  display: flex table-column;
+}
+
+.hero h2
+{
+  margin-top: 100px;
+  margin-bottom: 50px;
+  font-size: 40px;
+  line-height: 40px;
+}
